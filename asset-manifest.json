@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.0f5aacdd.js",
-    "index.html": "/index.html",
-    "main.0f5aacdd.js.map": "/static/js/main.0f5aacdd.js.map"
+    "main.css": "/fahadabbas920/static/css/main.31d6cfe0.css",
+    "main.js": "/fahadabbas920/static/js/main.0f5aacdd.js",
+    "index.html": "/fahadabbas920/index.html",
+    "main.0f5aacdd.js.map": "/fahadabbas920/static/js/main.0f5aacdd.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
