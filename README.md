@@ -30,16 +30,16 @@ Here are a few projects I've worked on recently. Feel free to check them out:
 1. **Tempestas: Weather Station**:
 •	Weather App created using React and Open Weather Apis. 
 •	It offers current weather data and forecasts for a 5-day, 3-hour interval, along with a 3-day, 1-hour interval of air pollution levels in over 20,000 cities worldwide.
- [Link to Project]((https://tempestas-weather.netlify.app/))
+ [Link to Project](https://tempestas-weather.netlify.app/)
 
 3. **Notez App**:
 •	This is a simple yet powerful notepad app, created using react-mde, and Showdown.
 •	Converts basic text into HTML format for preview. It uses your browser's local storage to save your notes.
- [Link to Project]((https://fahadabbas920.github.io/Notez/))
+ [Link to Project](https://fahadabbas920.github.io/Notez/)
 
 6. **Tenzie Game**: 
 •	Everyone gets ten dice. Someone says, “Go.” Then everyone rolls and rolls as fast as they can until someone gets all their dice on the same number and shouts “TENZI.”
-[Link to Project]((https://mytenziegame.netlify.app/))
+[Link to Project](https://mytenziegame.netlify.app/)
 
 These projects demonstrate my ability to create responsive web designs, utilize modern frameworks, and implement clean and maintainable code.
 
@@ -57,10 +57,10 @@ As a junior web developer, I'm committed to continuous learning and growth. Here
 
 I'm always excited to connect with other developers, collaborate on projects, or just have a chat. You can reach me via:
 
-- **Email**: your@email.com
-- **LinkedIn**: [LinkedIn Profile]((https://www.linkedin.com/in/fahadabbas920/))
-- **Portfolio**: [Portfolio Website]((https://fahadabbas.netlify.app/#/))
-- **Instagram**: [Instagram]((https://www.instagram.com/__fahad__abbas__/))
+- **Email**: [fahadabbas920@gmail.com](fahadabbas920@gmail.com)
+- **LinkedIn**: [Click to visit](https://www.linkedin.com/in/fahadabbas920/)
+- **Portfolio**: [Click to visit](https://fahadabbas.netlify.app/#/)
+- **Instagram**: [Click to visit](https://www.instagram.com/__fahad__abbas__/)
 
 Feel free to drop me a message anytime. Let's learn and grow together!
 
